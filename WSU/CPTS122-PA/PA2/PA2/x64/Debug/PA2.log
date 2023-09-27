@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\chapl\OneDrive\Documents\WSU\CPTS122\Labs\PA2\PA2\Main.cpp(220,7): warning C4101: 'choiceStr': unreferenced local variable
+C:\Users\chapl\OneDrive\Documents\WSU\CPTS122\Labs\PA2\PA2\Main.cpp(826,36): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\chapl\OneDrive\Documents\WSU\CPTS122\Labs\PA2\PA2\Main.cpp(838,36): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\chapl\OneDrive\Documents\WSU\CPTS122\Labs\PA2\PA2\Main.cpp(851,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\chapl\OneDrive\Documents\WSU\CPTS122\Labs\PA2\PA2\Main.cpp(853,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\chapl\OneDrive\Documents\WSU\CPTS122\Labs\PA2\PA2\Main.cpp(867,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PA2.vcxproj -> C:\Users\chapl\OneDrive\Documents\WSU\CPTS122\Labs\PA2\x64\Debug\PA2.exe
