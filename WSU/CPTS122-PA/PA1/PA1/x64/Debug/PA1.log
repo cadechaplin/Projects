@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\chapl\OneDrive\Documents\WSU\CPTS122\Labs\PA1\PA1\Header.h(60,2): warning C4091: 'typedef ': ignored on left of 'calculations' when no variable is declared
+  PA1.vcxproj -> C:\Users\chapl\OneDrive\Documents\WSU\CPTS122\Labs\PA1\x64\Debug\PA1.exe
