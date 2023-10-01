@@ -1,0 +1,19 @@
+graph {
+	"Richard Arlen"
+	"Charles Buddy Rogers"
+	"Mary Pickford"
+	"Gustav von Seyffertitz"
+	"Lionel Barrymore"
+	"Lauren Bacall"
+	"Carrie Fisher"
+	"Tom Hanks"
+	"Kevin Bacon"
+	"Richard Arlen" -- "Charles Buddy Rogers" [label="Wings (1927)"]
+	"Charles Buddy Rogers" -- "Mary Pickford" [label="My Best Girl (1927)"]
+	"Mary Pickford" -- "Gustav von Seyffertitz" [label="Sparrows (1926)"]
+	"Gustav von Seyffertitz" -- "Lionel Barrymore" [label="Bells, The (1926)"]
+	"Lionel Barrymore" -- "Lauren Bacall" [label="Key Largo (1948)"]
+	"Lauren Bacall" -- "Carrie Fisher" [label="Appointment with Death (1988)"]
+	"Carrie Fisher" -- "Tom Hanks" [label="'burbs, The (1989)"]
+	"Tom Hanks" -- "Kevin Bacon" [label="Apollo 13 (1995)"]
+}

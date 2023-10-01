@@ -1,0 +1,46 @@
+(base) C:\Users\chapl>cd OneDrive
+
+(base) C:\Users\chapl\OneDrive>mkdir CPTS215
+
+(base) C:\Users\chapl\OneDrive>cd CPTS215
+
+(base) C:\Users\chapl\OneDrive\CPTS215>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 92C2-EACB
+
+ Directory of C:\Users\chapl\OneDrive\CPTS215
+
+01/16/2023  06:00 PM    <DIR>          .
+01/16/2023  06:00 PM    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  364,742,275,072 bytes free
+
+(base) C:\Users\chapl\OneDrive\CPTS215>mkdir
+The syntax of the command is incorrect.
+
+(base) C:\Users\chapl\OneDrive\CPTS215>cd OneDrive
+The system cannot find the path specified.
+
+(base) C:\Users\chapl\OneDrive\CPTS215>mkdir lectures
+
+(base) C:\Users\chapl\OneDrive\CPTS215>mkdir ma
+
+(base) C:\Users\chapl\OneDrive\CPTS215>mkdir pa
+
+(base) C:\Users\chapl\OneDrive\CPTS215>cd ma
+
+(base) C:\Users\chapl\OneDrive\CPTS215\ma>mkdir ma1
+
+(base) C:\Users\chapl\OneDrive\CPTS215\ma>cd ma1
+
+(base) C:\Users\chapl\OneDrive\CPTS215\ma\ma1>type nul > hello_world.py
+
+(base) C:\Users\chapl\OneDrive\CPTS215\ma\ma1>cd ..
+
+(base) C:\Users\chapl\OneDrive\CPTS215\ma> cd..
+
+(base) C:\Users\chapl\OneDrive\CPTS215>
+
+
+
+
