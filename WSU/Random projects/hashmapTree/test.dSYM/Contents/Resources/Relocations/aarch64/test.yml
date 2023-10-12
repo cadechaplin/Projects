@@ -1,9 +1,9 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/cadechaplin/OldFiles/WSU/Random projects/hashmapTree/main'
+binary-path:     '/Users/cadechaplin/OldFiles/WSU/Random projects/hashmapTree/test'
 relocations:
-  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002594, symSize: 0xD0 }
-  - { offsetInCU: 0x88D3, offset: 0x88D3, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002594, symSize: 0xD0 }
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002598, symSize: 0xCC }
+  - { offsetInCU: 0x88D3, offset: 0x88D3, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002598, symSize: 0xCC }
   - { offsetInCU: 0x3E44, offset: 0xCCB6, size: 0x8, addend: 0x0, symName: __ZNSt3__17advanceB7v160006IPP4NodeIiEmmvEEvRT_T0_, symObjAddr: 0x16D8, symBinAddr: 0x100003D3C, symSize: 0x50 }
   - { offsetInCU: 0x6002, offset: 0xEE74, size: 0x8, addend: 0x0, symName: __ZNSt3__16chronomiB7v160006IxNS_5ratioILl1ELl1000000000EEExS3_EENS_11common_typeIJNS0_8durationIT_T0_EENS5_IT1_T2_EEEE4typeERKS8_RKSB_, symObjAddr: 0x7C64, symBinAddr: 0x10000A2C8, symSize: 0x70 }
   - { offsetInCU: 0x648C, offset: 0xF2FE, size: 0x8, addend: 0x0, symName: __ZNSt3__16chrono13duration_castB7v160006INS0_8durationIxNS_5ratioILl1ELl1000000EEEEExNS3_ILl1ELl1000000000EEEEENS_9enable_ifIXsr13__is_durationIT_EE5valueES8_E4typeERKNS2_IT0_T1_EE, symObjAddr: 0x1114, symBinAddr: 0x100003778, symSize: 0x30 }

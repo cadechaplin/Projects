@@ -1,6 +1,5 @@
 
 
-#include <iostream>
 #include <limits>
 #include <queue>
 #include <vector>
@@ -116,7 +115,7 @@ void AVLNode<T>::insert(T val){
 
 		}
 		if(getBF() > 1 || getBF() < -1){
-			cout << "bug";
+			//bug
 
 		};
 
